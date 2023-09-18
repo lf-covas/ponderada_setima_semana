@@ -19,16 +19,17 @@ Simular o POST das informações fornecendo diferentes tipos de valores nos par�
 
 **Resultado obtido:**
 <p>Codigo 200 quando fornecido as informações esperada (um objeto contendo obrigatoriamente o atributos name, status, companyId e moduleId sendo companyId e moduleId valores inteiros e os demais strings), informando que os dados foram salvos no banco de dados corretamente. Também foi recebido codigo 200 quando faltou informações (status) e quando foi passado apenas valores inteiros. Além disso, recebemos dois codigos 500 quando não passamos dados nem um ou quando informamos todos os dados como string<p>
-
+<br>
 <img src="imagens\erro_200.png">
 <img src="imagens\POST_iniciativas_preenchimento_incompleto.png">
 Figura 1: Resultado obtidos com apenas valores inteiros e preenchimento incompleto
-
+<br>
 <img src="imagens\erro_500.png">
 Figura 2: Resultado obtido quando as informações não são como esperadas
-
-<img src="imagens\resumo.png">
+<br>
+<img src="imagens\resumo.png"><br>
 Figura 3: Resumo dos testes
+<br>
 
 **Pós-condição:**
 <p> <p> 
