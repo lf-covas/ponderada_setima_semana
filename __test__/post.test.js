@@ -13,7 +13,7 @@ const dadosIncompletos = {
     name: 'Criação de um game',
     description: 'Melhor iniciativa',
     observation: 'Nem tanto',
-    status: 'WAITING',
+    // status: 'WAITING',
     companyId: 1,
     moduleId: 1
 };
