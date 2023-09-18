@@ -32,4 +32,4 @@ Figura 3: Resumo dos testes
 <br>
 
 **Pós-condição:**
-<p> <p> 
+<p>O nosso banco de dados contém iniciativas cadastradas corretamente e também aquelas registradas de forma inadequada.<p> 
